@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @lilbro
-- 👀 I’m interested in programming and cyber security
-- 🌱 I’m currently learning programming
-  
-- 📫 You can connect with me on Instagram[@lilbro_.666] 
+
+
+
+
 
 
 
